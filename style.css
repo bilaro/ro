@@ -1,0 +1,56 @@
+body {
+  background-color: lightgrey;
+  font-family: "Arial Black", Helvetica, sans-serif;
+  f
+  color: black;
+}
+ul{
+	list-style-type: none;
+}
+li {
+	float: left;
+	padding: 5px;
+	background-color: #dfbc29ff;
+}
+a {
+	text-decoration: none;
+}
+body{
+    		background-color: #454253;
+            color: gold;
+
+}
+table, th, td {
+ 			border: 1px solid blue;
+  			border-collapse: collapse;
+			
+}
+th{
+			text-align: left;
+			
+}
+th,td{
+			padding: 5px;
+}
+table{
+			border-spacing: 2px;
+			width: 100%;
+			background-color: SlateBlue;
+
+}
+li:hover , li:active {
+	background-color: #AA0505;
+	padding: 5.2px;
+	color: red;
+}
+form {
+	float: right;
+	margin-right: 190px;
+	margin-top: 70px;
+}
+#backgroundpicture {
+	background-image: url(frenchfood.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
