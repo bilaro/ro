@@ -1,8 +1,6 @@
 body {
   background-color: lightgrey;
   font-family: "Arial Black", Helvetica, sans-serif;
-  f
-  color: black;
 }
 ul{
 	list-style-type: none;
@@ -39,7 +37,7 @@ table{
 
 }
 #sajid:hover , #sajid:active {
-	background-color: #00ff66c9;
+	background-color: #6ff1c6fb;
 	padding: 5.2px;
 	color: #ffd52aff;
 }
@@ -53,4 +51,8 @@ form {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
+}
+span {
+	color : rgb(0, 148, 247) ;
+
 }
