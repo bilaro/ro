@@ -38,10 +38,10 @@ table{
 			background-color: SlateBlue;
 
 }
-li:hover , li:active {
-	background-color: #AA0505;
+#sajid:hover , #sajid:active {
+	background-color: #00ff66c9;
 	padding: 5.2px;
-	color: red;
+	color: #ffd52aff;
 }
 form {
 	float: right;
